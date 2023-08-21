@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Zeros Zhang 的个人博客</title>
-        <link>https://ZerosZhang.github.io/</link>
-        <description>This is my cool site</description>
+        <title>All Posts - Zeros Zhang 的个人博客</title>
+        <link>https://ZerosZhang.github.io/posts/</link>
+        <description>All Posts | Zeros Zhang 的个人博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zeros_zhang@163.com (ZerosZhang)</managingEditor>
-            <webMaster>zeros_zhang@163.com (ZerosZhang)</webMaster><lastBuildDate>Fri, 18 Aug 2023 21:57:37 &#43;0800</lastBuildDate>
-            <atom:link href="https://ZerosZhang.github.io/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>zeros_zhang@163.com (ZerosZhang)</webMaster><lastBuildDate>Fri, 18 Aug 2023 21:57:37 &#43;0800</lastBuildDate><atom:link href="https://ZerosZhang.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>我还不知道这个博客写什么</title>
     <link>https://ZerosZhang.github.io/posts/%E6%88%91%E8%BF%98%E4%B8%8D%E7%9F%A5%E9%81%93%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E5%86%99%E4%BB%80%E4%B9%88/</link>
     <pubDate>Fri, 18 Aug 2023 21:57:37 &#43;0800</pubDate>
