@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Zeros Zhang 的个人博客</title>
+        <link>https://ZerosZhang.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>zeros_zhang@163.com (ZerosZhang)</managingEditor>
+            <webMaster>zeros_zhang@163.com (ZerosZhang)</webMaster>
+            <atom:link href="https://ZerosZhang.github.io/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
