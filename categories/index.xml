@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Zeros遇见的作品集合</title>
-        <link>https://example.com/categories/</link>
+        <link>https://zeroszhang.github.io/categories/</link>
         <description>Recent content in Categories on Zeros遇见的作品集合</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Zeros遇见</copyright>
-        <lastBuildDate>Fri, 17 Jan 2025 11:25:07 +0800</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 17 Jan 2025 11:25:07 +0800</lastBuildDate><atom:link href="https://zeroszhang.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>WPF</title>
-        <link>https://example.com/categories/wpf/</link>
+        <link>https://zeroszhang.github.io/categories/wpf/</link>
         <pubDate>Fri, 17 Jan 2025 11:25:07 +0800</pubDate>
         
-        <guid>https://example.com/categories/wpf/</guid>
+        <guid>https://zeroszhang.github.io/categories/wpf/</guid>
         <description></description>
         </item>
         <item>
         <title>前端</title>
-        <link>https://example.com/categories/%E5%89%8D%E7%AB%AF/</link>
+        <link>https://zeroszhang.github.io/categories/%E5%89%8D%E7%AB%AF/</link>
         <pubDate>Fri, 17 Jan 2025 11:25:07 +0800</pubDate>
         
-        <guid>https://example.com/categories/%E5%89%8D%E7%AB%AF/</guid>
+        <guid>https://zeroszhang.github.io/categories/%E5%89%8D%E7%AB%AF/</guid>
         <description></description>
         </item>
         

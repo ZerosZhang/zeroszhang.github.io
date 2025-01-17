@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://zeroszhang.github.io/</loc>
     <lastmod>2025-01-17T11:25:07+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://zeroszhang.github.io/categories/</loc>
     <lastmod>2025-01-17T11:25:07+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://zeroszhang.github.io/post/</loc>
     <lastmod>2025-01-17T11:25:07+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/wpf/</loc>
+    <loc>https://zeroszhang.github.io/categories/wpf/</loc>
     <lastmod>2025-01-17T11:25:07+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/wpf%E6%8E%A7%E4%BB%B6%E5%BA%93-basewpfcontrol/</loc>
+    <loc>https://zeroszhang.github.io/p/wpf%E6%8E%A7%E4%BB%B6%E5%BA%93-basewpfcontrol/</loc>
     <lastmod>2025-01-17T11:25:07+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://zeroszhang.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2025-01-17T11:25:07+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://zeroszhang.github.io/page/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://zeroszhang.github.io/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2025-01-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://zeroszhang.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://zeroszhang.github.io/tags/</loc>
   </url><url>
-    <loc>https://example.com/%E6%90%9C%E7%B4%A2/</loc>
+    <loc>https://zeroszhang.github.io/%E6%90%9C%E7%B4%A2/</loc>
   </url>
 </urlset>
