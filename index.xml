@@ -7,7 +7,333 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Zeros遇见</copyright>
-        <lastBuildDate>Fri, 17 Jan 2025 11:25:07 +0800</lastBuildDate><atom:link href="https://zeroszhang.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 17 Jan 2025 16:41:10 +0800</lastBuildDate><atom:link href="https://zeroszhang.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>软件推荐</title>
+        <link>https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</link>
+        <pubDate>Fri, 17 Jan 2025 16:41:10 +0800</pubDate>
+        
+        <guid>https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</guid>
+        <description>&lt;img src="https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/Title.jpg" alt="Featured image of post 软件推荐" /&gt;&lt;h2 id=&#34;3d设计软件-freecad&#34;&gt;3D设计软件 FreeCAD
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/FreeCAD/FreeCAD&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/FreeCAD/FreeCAD&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;日常工作需要审核机械设计师在 &lt;code&gt;Solidworks&lt;/code&gt; 中绘制的 3D 图纸，于是就下了这个开源软件。该软件还支持 3D 设计，但是我没有这种需求。&lt;/p&gt;
+&lt;p&gt;让我同事在 &lt;code&gt;Solidworks&lt;/code&gt; 中导出 &lt;code&gt;Step&lt;/code&gt; 文件，再在 &lt;code&gt;FreeCAD&lt;/code&gt; 中打开即可。第一次打开 &lt;code&gt;step&lt;/code&gt; 时要设置文本编码方式，选择 &lt;code&gt;GBK&lt;/code&gt;，否则 &lt;code&gt;step&lt;/code&gt; 文件中的中文会乱码。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZFreeCAD.png&#34;
+  width=&#34;1921&#34;
+  
+  height=&#34;1033&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZFreeCAD_hu16503117129851088444.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZFreeCAD_hu2067446116726700645.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;185&#34;
+  data-flex-basis=&#34;446px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;远程桌面-1remote&#34;&gt;远程桌面 1Remote
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/1Remote/1Remote&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/1Remote/1Remote&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;开源软件，该软件可以记录多个远程桌面的配置（IP地址+用户+密码），下次使用双击打开即可。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/Z1Remote.png&#34;
+  width=&#34;700&#34;
+  
+  height=&#34;500&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/Z1Remote_hu7355005640792889533.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/Z1Remote_hu14036891697008695322.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;140&#34;
+  data-flex-basis=&#34;336px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;rss阅读-follow&#34;&gt;RSS阅读 Follow
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/RSSNext/follow&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/RSSNext/follow&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;开源软件，可以使用RSS订阅很多网站，这样每天只要打开 Follow 就可以看到很多网站的更新。另外还有一点好处是可以看到其他用户订阅的内容，这样可以扩展自己的知识面。&lt;/p&gt;
+&lt;p&gt;这个软件的功能是受限的，想解锁需要激活码，我是问别人要的。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZFollow.png&#34;
+  width=&#34;1922&#34;
+  
+  height=&#34;1034&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZFollow_hu11082193122390489598.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZFollow_hu10593809891495226479.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;185&#34;
+  data-flex-basis=&#34;446px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;笔记软件-wolai&#34;&gt;笔记软件 Wolai
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.wolai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.wolai.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;国内仿 Notion 比较好的软件，挺好用，需要按年开会员，否则功能受限。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZWolai.png&#34;
+  width=&#34;1916&#34;
+  
+  height=&#34;1021&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZWolai_hu632834931384544423.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZWolai_hu12612318424504011700.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;187&#34;
+  data-flex-basis=&#34;450px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;输入法中英文提示软件-inputtip&#34;&gt;输入法中英文提示软件 InputTip
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/abgox/InputTip&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/abgox/InputTip&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;写代码的时候需要频繁切换中英文，老是忘记看右下角，有了这个软件之后在输入的地方就会有一个悬浮图标指示大写/中文/英文。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZInputTip.png&#34;
+  width=&#34;891&#34;
+  
+  height=&#34;521&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZInputTip_hu8569333736081826939.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZInputTip_hu4916368676936779416.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;171&#34;
+  data-flex-basis=&#34;410px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;截图软件-pixpin&#34;&gt;截图软件 PixPin
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://pixpin.cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://pixpin.cn/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;贼好用的截图软件，完全覆盖了 Snipaste 的功能，除此以外可以离线OCR，长截图，录制Gif，功能很多。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZPixPin.png&#34;
+  width=&#34;657&#34;
+  
+  height=&#34;431&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZPixPin_hu820219403772668499.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZPixPin_hu17709799769278436490.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;152&#34;
+  data-flex-basis=&#34;365px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;文件同步软件-坚果云&#34;&gt;文件同步软件 坚果云
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.jianguoyun.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.jianguoyun.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;可以无感同步文件，在不同的电脑上访问，我用的是免费的 1G 空间，同步一些日常用的文件。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/Z%E5%9D%9A%E6%9E%9C%E4%BA%91.png&#34;
+  width=&#34;438&#34;
+  
+  height=&#34;638&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/Z%E5%9D%9A%E6%9E%9C%E4%BA%91_hu10784888764275062602.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/Z%E5%9D%9A%E6%9E%9C%E4%BA%91_hu14910833691404087588.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;68&#34;
+  data-flex-basis=&#34;164px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;数据库管理软件-heidi-sql&#34;&gt;数据库管理软件 Heidi SQL
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.heidisql.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.heidisql.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;开源的数据库管理软件，支持很多类型的连接。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZHeidiSQL.png&#34;
+  width=&#34;686&#34;
+  
+  height=&#34;483&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZHeidiSQL_hu16710466944668912230.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZHeidiSQL_hu12032772911736676999.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;142&#34;
+  data-flex-basis=&#34;340px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;视频播放器-potplayer&#34;&gt;视频播放器 PotPlayer
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.potplayercn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.potplayercn.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;贼好用的视频播放器，功能很多，比如倍速播放，看直播源等等。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZPotPlayer.png&#34;
+  width=&#34;663&#34;
+  
+  height=&#34;260&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZPotPlayer_hu11235377667876420121.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZPotPlayer_hu4289489326954124307.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;255&#34;
+  data-flex-basis=&#34;612px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;markdown编辑器-typora&#34;&gt;Markdown编辑器 Typora
+&lt;/h2&gt;&lt;p&gt;好用的 Markdown 编辑器，比其他的编辑器都好用，主要是很方便预览。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://typora.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://typora.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZTypora.png&#34;
+  width=&#34;1467&#34;
+  
+  height=&#34;917&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZTypora_hu9589786316453752485.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZTypora_hu16951619130397168606.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;159&#34;
+  data-flex-basis=&#34;383px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;简易csharp编辑器-linqpad-8&#34;&gt;简易CSharp编辑器 LinqPad 8
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.linqpad.net/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.linqpad.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;很方便的 C# 编辑器，使用 BenchMark 特别方便，跟写 Python 一样。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZLinqPad.png&#34;
+  width=&#34;1343&#34;
+  
+  height=&#34;779&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZLinqPad_hu6175972821272994058.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZLinqPad_hu10001658946427549572.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;172&#34;
+  data-flex-basis=&#34;413px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;多功能编辑器-vscode&#34;&gt;多功能编辑器 VSCode
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://code.visualstudio.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://code.visualstudio.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;支持的文件很多，比如装插件可以看 SQL.db 文件，可以看 Excel 文件，算是高级文本编辑器。&lt;/p&gt;
+&lt;p&gt;还可以使用 Polyglot NoteBook 写 C#，跟 Jupyter NoteBook 类似，但是会有一些限制，而且代码提示没有 LinqPad 8 好用。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZVSCode.png&#34;
+  width=&#34;1911&#34;
+  
+  height=&#34;1025&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZVSCode_hu6764427464450716286.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZVSCode_hu4593958285069046880.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;186&#34;
+  data-flex-basis=&#34;447px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;文本编辑器-sublime-text&#34;&gt;文本编辑器 Sublime Text
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.sublimetext.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.sublimetext.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;轻量化的文本编辑器，颜值很高。需要一点设置才能支持中文。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZSublime.png&#34;
+  width=&#34;1319&#34;
+  
+  height=&#34;802&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZSublime_hu17698632873006914561.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZSublime_hu10710449018711367433.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;164&#34;
+  data-flex-basis=&#34;394px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;多功能启动器-utools&#34;&gt;多功能启动器 uTools
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.u.tools/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.u.tools/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;神。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZuTools.png&#34;
+  width=&#34;883&#34;
+  
+  height=&#34;291&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZuTools_hu661205587721395622.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZuTools_hu5416182731865184761.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;303&#34;
+  data-flex-basis=&#34;728px&#34;
+  
+/&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;右键菜单美化-nilesoft-shell&#34;&gt;右键菜单美化 NileSoft Shell
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://nilesoft.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://nilesoft.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;升级 Windows 11 后右键菜单不是很好用，所以下了这个软件，给右键菜单新增了额外的功能，并且颜值很高。&lt;/p&gt;
+&lt;p&gt;&lt;img
+  src=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZNileSoftShell.png&#34;
+  width=&#34;235&#34;
+  
+  height=&#34;354&#34;
+  
+  srcset=&#34;https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZNileSoftShell_hu6412649395586351443.png 480w, https://zeroszhang.github.io/p/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/ZNileSoftShell_hu436743777327437166.png 1024w&#34;
+  
+  loading=&#34;lazy&#34;
+  
+  
+  class=&#34;gallery-image&#34;
+  data-flex-grow=&#34;66&#34;
+  data-flex-basis=&#34;159px&#34;
+  
+/&gt;
+&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>WPF控件库 BaseWPFControl</title>
         <link>https://zeroszhang.github.io/p/wpf%E6%8E%A7%E4%BB%B6%E5%BA%93-basewpfcontrol/</link>
         <pubDate>Fri, 17 Jan 2025 11:25:07 +0800</pubDate>
