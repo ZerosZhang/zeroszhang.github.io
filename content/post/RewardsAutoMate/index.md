@@ -19,7 +19,7 @@ tags:
 
 另外，`Rewards` 也有手机端的搜索任务，但是手机我是随身带着，所以我并没有实现安卓端的软件，直接使用油猴脚本进行替代。
 
-项目代码上传到此处：[RewardsAutoMate](https://gitee.com/Zeros_Zhang/rewards-auto-mate)
+项目代码上传到此处：[RewardsAutoMate](https://github.com/ZerosZhang/Micorosoft-Rewards)
 
 ## 功能说明
 
@@ -58,3 +58,13 @@ Edge老是在后台自动更新，导致我时不时的要同步更新 drive 的
 用 AI 重新写了整个项目，反正不是什么特别重要的项目，代码质量无所谓了。
 
 ![](assets/PixPin_2026-08-21_21-29-00.png)
+
+### 2026年08月26日
+
+再一次用 AI 重写了，这次引入了 [](../BaseWPFControl) 控件库。
+
+1. 针对 Edge 浏览器的自动更新机制，实现了自动下载对应版本驱动的问题。
+2. 每周定期发送周报邮件
+3. 出现异常时发送邮件通知
+
+![](assets/PixPin_2026-08-26_09-03-12.png)
