@@ -30,6 +30,7 @@ tags:
 代码上传在这里：[FoloArchive](https://github.com/ZerosZhang/FoloArchive)
 
 ![](assets/image.png)
+![](assets/PixPin_2026-08-26_09-40-09.png)
 
 ## 项目更新记录
 
@@ -39,3 +40,4 @@ tags:
 
 1. 优化界面的实现，使日志块占用更多的空间
 2. 同时支持 CLI 和 GUI 形式的使用方式
+
