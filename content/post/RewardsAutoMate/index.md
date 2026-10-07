@@ -1,5 +1,5 @@
 ---
-title: 'Microsoft Rewards 自动获取助手'
+title: 'RewardsAutoMate'
 description: 用于每天调用 Bing 搜索，以达到获取 Reward 的功能。
 date: 2025-02-06T15:44:39+08:00
 image: assets/cover.jpg
